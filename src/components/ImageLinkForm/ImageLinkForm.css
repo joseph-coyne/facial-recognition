@@ -3,7 +3,10 @@ button {
 }
 
 #inputBox {
-	background-color: #36393e;
+	background-color: #303136;
+}
+input {
+	background-color: #484c52;
 }
 
 .form {
